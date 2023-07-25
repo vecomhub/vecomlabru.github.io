@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vecom LAB — Science & Technology (RU)",
-    "currentPage": "ecom-foundations.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -49,7 +49,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/vecomlab-favicon.svg",
-    "mbrsiteDomain": "8ksnyfnizq",
+    "mbrsiteDomain": "9vktw05zwx",
     "imageResize": false,
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
@@ -3418,11 +3418,11 @@
           "_sourceTheme": "mobirise5",
           "_customHTML": "<section data-bs-version=\"5.1\" class=\"content11\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://info.vecomlab.ru/dropshipping/shopify\" data-app-placeholder=\"Type Text\" target=\"_blank\">Больше отзывов и пруфов</a>\n                    <a class=\"btn btn-primary-outline\" href=\"https://info.vecomlab.ru/dropshipping/shopify\" data-app-placeholder=\"Type Text\" target=\"_blank\">Стратегия</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "tL0mZCcZvQ",
-          "_anchor": "content11-2m",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "content11-2m"
         },
         {
           "alias": false,
